@@ -185,6 +185,7 @@ a:focus, a:hover {
 .masthead5 .intro-body {
   display: table-cell;
   vertical-align: middle;
+  background-color: (0, 0, 0, 0.6)
 }
 
 .masthead5 .intro-body .brand-heading {
