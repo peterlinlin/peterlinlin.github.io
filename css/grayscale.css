@@ -43,7 +43,7 @@ a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  color: #007FFF;
+  color: #42DCA3;
 }
 
 a:focus, a:hover {
@@ -119,7 +119,7 @@ a:focus, a:hover {
 
 .masthead {
   display: table;
-  width: 100;
+  width: 100%;
   height: auto;
   padding: 200px 0;
   text-align: center;
@@ -158,7 +158,6 @@ a:focus, a:hover {
   }
 }
 
-
 .btn-circle {
   font-size: 26px;
   width: 55px;
@@ -187,7 +186,7 @@ a:focus, a:hover {
 
 .download-section {
   color: white;
-  background: url("../img/downloads-bg.jpg") no-repeat center center scroll;
+  background: url("../img/the-15-coolest-cars-from-the-fast-and-furious-movies.png") no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -222,7 +221,7 @@ a:focus, a:hover {
 
 .btn-default {
   color: #42DCA3;
-  border: 1px solid #FFFFFF;
+  border: 1px solid #42DCA3;
   background-color: transparent;
 }
 
