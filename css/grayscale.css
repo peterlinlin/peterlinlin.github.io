@@ -83,7 +83,7 @@ a:focus, a:hover {
 #mainNav .navbar-nav .nav-item:hover {
   color: fade(white, 80%);
   outline: none;
-  background-color: transparent;
+  background-color: black;
 }
 
 #mainNav .navbar-nav .nav-item:active, #mainNav .navbar-nav .nav-item:focus {
@@ -102,12 +102,12 @@ a:focus, a:hover {
     border-bottom: none;
     background: transparent;
   }
-  #mainNav.navbar-shrink {
+  /*#mainNav.navbar-shrink {
     padding-top: 10px;
     padding-bottom: 10px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
     background: black;
-  }
+  }*/
   #mainNav .nav-link.active {
     outline: none;
     background-color: rgba(255, 255, 255, 0.3);
@@ -175,7 +175,7 @@ a:focus, a:hover {
   text-align: center;
   color: white;
   background: url("../img/Fast_Five_image-52.jpg") no-repeat bottom center scroll;
-  background-color: (0, 0, 0, 0.6);
+  background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -213,11 +213,6 @@ a:focus, a:hover {
     font-size: 22px;
   }
 }
-
-
-
-
-
 
 
 .btn-circle {
