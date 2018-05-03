@@ -117,7 +117,7 @@ a:focus, a:hover {
   }
 }
 
-.masthead {
+.mastheadmain {
   display: table;
   width: 100%;
   height: auto;
@@ -125,6 +125,21 @@ a:focus, a:hover {
   text-align: center;
   color: white;
   background: url("../img/the-15-coolest-cars-from-the-fast-and-furious-movies.png") no-repeat bottom center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.masthead5 {
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 200px 0;
+  text-align: center;
+  color: white;
+  background: url("../img/Fast_Five_images-52.jpg") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
