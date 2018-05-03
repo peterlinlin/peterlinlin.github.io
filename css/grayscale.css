@@ -227,9 +227,9 @@ a:focus, a:hover {
 
 .btn-default:focus, .btn-default:hover {
   color: black;
-  border: 1px solid #007FFF;
+  border: 1px solid #FFFFFF;
   outline: none;
-  background-color: #007FFF;
+  background-color: #FFFFFF;
 }
 
 ul.banner-social-buttons {
