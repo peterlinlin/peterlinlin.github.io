@@ -119,7 +119,7 @@ a:focus, a:hover {
 
 .masthead {
   display: table;
-  width: 100%;
+  width: 100;
   height: auto;
   padding: 200px 0;
   text-align: center;
@@ -236,16 +236,16 @@ ul.banner-social-buttons {
   margin-top: 0;
 }
 
-@media (max-width: 10000px) {
+@media (max-width: 1199px) {
   ul.banner-social-buttons {
-    margin-top: 7px;
+    margin-top: 15px;
   }
 }
 
-@media (max-width: 10000px) {
+@media (max-width: 767px) {
   ul.banner-social-buttons li {
     display: block;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
     padding: 0;
   }
   ul.banner-social-buttons li:last-child {
