@@ -172,9 +172,10 @@ a:focus, a:hover {
   width: 100%;
   font: 'Helvetica Neue'
   height: 100%;
-  padding: 200px 0;
+  padding: 200px;
+  padding-top: 30px;
   text-align: center;
-  color: white;
+  color: purple;
   background: url("../img/Fast_Five_image-52.jpg") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
