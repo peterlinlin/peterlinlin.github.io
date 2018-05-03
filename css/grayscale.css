@@ -175,7 +175,7 @@ a:focus, a:hover {
   text-align: center;
   color: white;
   background: url("../img/Fast_Five_image-52.jpg") no-repeat bottom center scroll;
-  background-color: black;
+  background-color: (0, 0, 0, 0.6);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
