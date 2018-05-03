@@ -53,7 +53,8 @@ a:focus, a:hover {
 
 #mainNav {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  margin-bottom: 0;
+  margin-bottom: 30px;
+  margin-top: 30px;  
   text-transform: uppercase;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   background-color: black;
@@ -83,7 +84,7 @@ a:focus, a:hover {
 #mainNav .navbar-nav .nav-item:hover {
   color: fade(white, 80%);
   outline: none;
-  background-color: gray;
+  background-color: black;
 }
 
 #mainNav .navbar-nav .nav-item:active, #mainNav .navbar-nav .nav-item:focus {
