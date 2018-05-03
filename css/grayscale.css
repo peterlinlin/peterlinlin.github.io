@@ -88,7 +88,7 @@ a:focus, a:hover {
 
 #mainNav .navbar-nav .nav-item:active, #mainNav .navbar-nav .nav-item:focus {
   outline: none;
-  background-color: transparent;
+  background-color: black;
 }
 
 @media (min-width: 992px) {
