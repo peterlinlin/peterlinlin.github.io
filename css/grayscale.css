@@ -119,7 +119,7 @@ a:focus, a:hover {
 
 .mastheadmain {
   display: table;
-  width: 100%;
+  width: auto;
   height: auto;
   padding: 200px 0;
   text-align: center;
@@ -134,7 +134,7 @@ a:focus, a:hover {
 
 .masthead5 {
   display: table;
-  width: 100%;
+  width: auto;
   height: auto;
   padding: 200px 0;
   text-align: center;
