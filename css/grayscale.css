@@ -84,7 +84,7 @@ a:focus, a:hover {
 #mainNav .navbar-nav .nav-item:hover {
   color: fade(white, 80%);
   outline: none;
-  background-color: black;
+  background-color: transparent;
 }
 
 #mainNav .navbar-nav .nav-item:active, #mainNav .navbar-nav .nav-item:focus {
