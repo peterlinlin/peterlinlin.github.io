@@ -283,8 +283,8 @@ a:focus, a:hover {
   background-color: black;
   padding-left: 15px;
   padding-right: 15px;
-  padding-top: 25px;
-  padding-bottom: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   border-radius: 2px;
   border-color: #42DCA3;
 }
