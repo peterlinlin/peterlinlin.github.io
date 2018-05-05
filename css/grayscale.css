@@ -139,6 +139,14 @@ a:focus, a:hover {
   background-size: cover;
 }
 
+.the-fast-and-the-furious {
+  background: url("../img/fastandfurious.jpg") no-repeat bottom center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .fast-five {
   background: url("../img/FastFive.jpg") no-repeat bottom center scroll;
   -webkit-background-size: cover;

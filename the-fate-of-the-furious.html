@@ -56,7 +56,7 @@
           <div class="row">
             <div class="col-lg-8 mx-auto">
               <h1 class="brand-heading">Fast Five</h1>
-              <p class="intro-text">A multi award winning franchise
+              <p class="intro-text">A multi-award winning franchise
                 <br>starring the late Paul Walker and Vin Diesel</p>
               <a href="#summary" class="btn btn-circle js-scroll-trigger">
                 <i class="fa fa-angle-double-down animated"></i>
