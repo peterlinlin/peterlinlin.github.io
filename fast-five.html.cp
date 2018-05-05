@@ -73,11 +73,11 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h2><b>Summary</b></h2>
-            <p>Former cop Brian O'Conner (<a href="https://en.wikipedia.orghttps://en.wikipedia.org/wiki/Paul_Walker">Paul Walker</a>) partners with ex-con Dom Toretto <a href="https://en.wikipedia.orghttps://en.wikipedia.org/wiki/Vin_Diesel">Vin Diesel</a>) on
-              the opposite side of the law. Since Brian and Mia Toretto (<a href="https://en.wikipedia.orghttps://en.wikipedia.org/wiki/Jordana_Brewster">Jordana Brewster</a>) broke Dom out of custody, they've blown across many borders to elude authorities.
+            <p>Former cop Brian O'Conner (<a href="https://en.wikipedia.org/wiki/Paul_Walker">Paul Walker</a>) partners with ex-con Dom Toretto <a href="https://en.wikipedia.org/wiki/Vin_Diesel">Vin Diesel</a>) on
+              the opposite side of the law. Since Brian and Mia Toretto (<a href="https://en.wikipedia.org/wiki/Jordana_Brewster">Jordana Brewster</a>) broke Dom out of custody, they've blown across many borders to elude authorities.
               Now backed into a corner in Rio de Janeiro, they must pull one last job in order to gain their freedom.
               As they assemble their elite team of top racers, the unlikely allies know their only shot of getting out for good means confronting the corrupt
-              businessman who wants them dead. But he's not the only one on their tail. Hard-nosed federal agent Luke Hobbs (<a href="https://en.wikipedia.orghttps://en.wikipedia.org/wiki/Dwayne_Johnson">Dwayne Johnson</a>) never misses his target.
+              businessman who wants them dead. But he's not the only one on their tail. Hard-nosed federal agent Luke Hobbs (<a href="https://en.wikipedia.org/wiki/Dwayne_Johnson">Dwayne Johnson</a>) never misses his target.
               When he is assigned to track down Dom and Brian, he and his strike team launch an all-out assault to capture them. But as his men tear through Brazil,
               Hobbs learns he can't separate the good guys from the bad. Now, he must rely on his instincts to corner his prey... before someone else runs them down first.</p>
           </div>
@@ -90,7 +90,7 @@
       <div class="container">
         <div class="col-lg-8 mx-auto">
           <h2>Awards</h2>
-          <table class="wikitable" style="width:99%;">
+          <table style="width:99%;">
 <tbody><tr>
 <th>Year</th>
 <th>Award</th>
