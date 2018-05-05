@@ -362,3 +362,19 @@ table, th, td {
 .bg-faded {
   background-color: (1, 1, 1, 0.5);
 }
+
+.intro {
+  position: relative;
+}
+
+@media (min-width: 992px) {
+  .intro .intro-img {
+    width: 100%;
+    float: right;
+  }
+
+  .intro .intro-text {
+    width: %;
+    margin-top: 3rem;
+    position: absolute;
+  }
