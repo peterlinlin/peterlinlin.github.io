@@ -358,5 +358,5 @@ img::-moz-selection {
 
 table, th, td {
     border: 1px;
-    color: #42DCA3;
+    border-color: #42DCA3;
 }
