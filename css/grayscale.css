@@ -165,7 +165,6 @@ a:focus, a:hover {
     font-size: 22px;
   }
 }
-
 /*--------------Mast head for 2 Fast 2 Furious--------------*/
 
 .masthead2 {
@@ -176,7 +175,7 @@ a:focus, a:hover {
   padding: 200px;
   text-align: center;
   color: white;
-  background: url("../img/2fast2furious") no-repeat bottom center scroll;
+  background: url("../img/2fast2furious.jpg") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -184,6 +183,24 @@ a:focus, a:hover {
   background-size: cover;
 }
 
+.masthead2 .intro-body {
+  display: table-cell;
+  vertical-align: middle;
+  background-color: (0, 0, 0, 0.6)
+}
+
+.masthead2 .intro-body .brand-heading {
+  font-size: 70px;
+}
+
+
+.masthead2 .intro-body .intro-text {
+  font-size: 18px;
+}
+
+.masthead2 .intro-body .intro-text {
+  font-size: 18px;
+}
 
 /*--------------Mast head for Fast Five--------------*/
 .masthead5 {
@@ -202,7 +219,24 @@ a:focus, a:hover {
   background-size: cover;
 }
 
+.masthead5 .intro-body {
+  display: table-cell;
+  vertical-align: middle;
+  background-color: (0, 0, 0, 0.6)
+}
 
+.masthead5 .intro-body .brand-heading {
+  font-size: 70px;
+}
+
+
+.masthead5 .intro-body .intro-text {
+  font-size: 18px;
+}
+
+.masthead5 .intro-body .intro-text {
+  font-size: 18px;
+}
 
 @media (min-width: 768px) {
   .masthead {
