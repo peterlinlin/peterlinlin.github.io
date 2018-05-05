@@ -374,7 +374,6 @@ table, th, td {
   }
 
   .intro .intro-text {
-    left: 0;
     width: 60%;
     margin-top: 3rem;
     position: absolute;
