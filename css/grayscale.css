@@ -357,6 +357,6 @@ img::-moz-selection {
 }
 
 table, th, td {
-    border: 1px;
-    border-color: #42DCA3;
+    border: 1px solid #42DCA3;
+    border-collapse: collapse;
 }
