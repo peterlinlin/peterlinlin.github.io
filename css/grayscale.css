@@ -166,6 +166,25 @@ a:focus, a:hover {
   }
 }
 
+/*--------------Mast head for 2 Fast 2 Furious--------------*/
+
+.masthead2 {
+  display: table;
+  width: 100%;
+  font: 'Helvetica Neue'
+  height: 100%;
+  padding: 200px;
+  text-align: center;
+  color: white;
+  background: url("../img/2fast2furious") no-repeat bottom center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
 /*--------------Mast head for Fast Five--------------*/
 .masthead5 {
   display: table;
@@ -183,24 +202,7 @@ a:focus, a:hover {
   background-size: cover;
 }
 
-.masthead5 .intro-body {
-  display: table-cell;
-  vertical-align: middle;
-  background-color: (0, 0, 0, 0.6)
-}
 
-.masthead5 .intro-body .brand-heading {
-  font-size: 70px;
-}
-
-
-.masthead5 .intro-body .intro-text {
-  font-size: 18px;
-}
-
-.masthead5 .intro-body .intro-text {
-  font-size: 18px;
-}
 
 @media (min-width: 768px) {
   .masthead {
@@ -283,13 +285,14 @@ a:focus, a:hover {
   background-color: transparent;
 }
 
-.btn-default-change-page{color: #42DCA3;
-border: 1px solid #42DCA3;
-background-color: transparent;
-padding-left: 15px;
-padding-right: 15px;
-padding-top: 10px;
-padding-bottom: 10px;
+.btn-default-change-page{
+  color: #42DCA3;
+  border: 1px solid #42DCA3;
+  background-color: transparent;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .btn-default-change-page:focus, .btn-default-change-page:hover {
