@@ -148,7 +148,7 @@ a:focus, a:hover {
 }
 
 .fast-five {
-  background: url("../img/FastFive.jpg") no-repeat bottom center scroll;
+  background: url("../img/FastFivecropped.jpg") no-repeat bottom center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
