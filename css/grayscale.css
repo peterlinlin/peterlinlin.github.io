@@ -355,3 +355,8 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+
+table, th, td {
+    border: 1px;
+    color: #42DCA3;
+}
