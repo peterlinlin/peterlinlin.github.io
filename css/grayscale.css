@@ -413,11 +413,7 @@ table, th, td {
     border-collapse: collapse;
 }
 
-.container .title-background {
-  padding-left: 50px;
-  padding-right: 50px;
-  padding-top: 25px;
-  padding-bottom: 25px;
-  background-color: (0, 0, 0, 0.3);
+.bg-faded {
 
+  background-color: (1, 1, 1, 0.5);
 }
