@@ -53,7 +53,8 @@ a:focus, a:hover {
 
 #mainNav {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  margin-bottom: 0;
+  margin-bottom: 0px;
+  margin-top: 0px;
   text-transform: uppercase;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   background-color: black;
@@ -81,9 +82,9 @@ a:focus, a:hover {
 }
 
 #mainNav .navbar-nav .nav-item:hover {
-  color: fade(white, 80%);
+  /*color: fade(white, 80%);*/
   outline: none;
-  background-color: black;
+  background-color: transparent;
 }
 
 #mainNav .navbar-nav .nav-item:active, #mainNav .navbar-nav .nav-item:focus {
@@ -137,6 +138,7 @@ a:focus, a:hover {
 .masthead .intro-body {
   display: table-cell;
   vertical-align: middle;
+  background-color: (0, 0, 0, 0.6);
 }
 
 .masthead .intro-body .brand-heading {
@@ -164,6 +166,43 @@ a:focus, a:hover {
     font-size: 22px;
   }
 }
+/*--------------Mast head for 2 Fast 2 Furious--------------*/
+
+.masthead2 {
+  display: table;
+  width: 100%;
+  font: 'Helvetica Neue'
+  height: 100%;
+  padding: 200px;
+  text-align: center;
+  color: white;
+  background: url("../img/2fast2furious.jpg") no-repeat bottom center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.masthead2 .intro-body {
+  display: table-cell;
+  vertical-align: middle;
+  background-color: (0, 0, 0, 0.6);
+}
+
+.masthead2 .intro-body .brand-heading {
+  font-size: 50px;
+}
+
+
+.masthead2 .intro-body .intro-text {
+  font-size: 18px;
+}
+
+.masthead2 .intro-body .intro-text {
+  font-size: 18px;
+}
 
 /*--------------Mast head for Fast Five--------------*/
 .masthead5 {
@@ -171,7 +210,7 @@ a:focus, a:hover {
   width: 100%;
   font: 'Helvetica Neue'
   height: 100%;
-  padding: 200px 0;
+  padding: 200px;
   text-align: center;
   color: white;
   background: url("../img/Fast_Five_image-52.jpg") no-repeat bottom center scroll;
@@ -182,14 +221,15 @@ a:focus, a:hover {
   background-size: cover;
 }
 
+
 .masthead5 .intro-body {
   display: table-cell;
   vertical-align: middle;
-  background-color: (0, 0, 0, 0.6)
+  background-color: (0, 0, 0, 0.6);
 }
 
 .masthead5 .intro-body .brand-heading {
-  font-size: 70px;
+  font-size: 50px;
 }
 
 
@@ -201,6 +241,18 @@ a:focus, a:hover {
   font-size: 18px;
 }
 
+@media (min-width: 768px) {
+  .masthead {
+    height: 100%;
+    padding: 0;
+  }
+  .masthead .intro-body .brand-heading {
+    font-size: 100px;
+  }
+  .masthead .intro-body .intro-text {
+    font-size: 22px;
+  }
+}
 @media (min-width: 768px) {
   .masthead {
     height: 100%;
@@ -282,6 +334,23 @@ a:focus, a:hover {
   background-color: transparent;
 }
 
+.btn-default-change-page{
+  color: #42DCA3;
+  border: 1px solid #42DCA3;
+  background-color: transparent;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.btn-default-change-page:focus, .btn-default-change-page:hover {
+  color: black;
+  border: 1px solid #42DCA3;
+  outline: none;
+  background-color: #42DCA3;
+}
+
 .btn-default:focus, .btn-default:hover {
   color: black;
   border: 1px solid #42DCA3;
@@ -302,7 +371,7 @@ ul.banner-social-buttons {
 @media (max-width: 767px) {
   ul.banner-social-buttons li {
     display: block;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     padding: 0;
   }
   ul.banner-social-buttons li:last-child {
@@ -337,4 +406,14 @@ img::selection {
 
 img::-moz-selection {
   background: transparent;
+}
+
+table, th, td {
+    border: 1px solid #42DCA3;
+    border-collapse: collapse;
+}
+
+.bg-faded {
+
+  background-color: (1, 1, 1, 0.5);
 }

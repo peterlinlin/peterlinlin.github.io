@@ -120,19 +120,30 @@ a:focus, a:hover {
 
 /*--------------Mast head for main page--------------*/
 
-.mastheadmain {
+.masthead {
   display: table;
   width: 100%;
   height: 100%;
   padding: 200px 0;
   text-align: center;
   color: white;
-  background: url("../img/the-15-coolest-cars-from-the-fast-and-furious-movies.png") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.main {
+  background: url("../img/the-15-coolest-cars-from-the-fast-and-furious-movies.png") no-repeat bottom center scroll;
+}
+
+.fast-five{
+  background: url("../img/Fast_Five_image-52.jpg") no-repeat bottom center scroll;
+}
+
+.2-fast-2-furious{
+  background: url("../img/2fast2furious.jpg") no-repeat bottom center scroll;
 }
 
 .masthead .intro-body {
@@ -176,7 +187,6 @@ a:focus, a:hover {
   padding: 200px;
   text-align: center;
   color: white;
-  background: url("../img/2fast2furious.jpg") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -213,7 +223,6 @@ a:focus, a:hover {
   padding: 200px;
   text-align: center;
   color: white;
-  background: url("../img/Fast_Five_image-52.jpg") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
