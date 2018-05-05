@@ -128,22 +128,31 @@ a:focus, a:hover {
   text-align: center;
   color: white;
   background-color: black;
+
+}
+
+.main {
+  background: url("../img/the-15-coolest-cars-from-the-fast-and-furious-movies.png") no-repeat bottom center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 
-.main {
-  background: url("../img/the-15-coolest-cars-from-the-fast-and-furious-movies.png") no-repeat bottom center scroll;
-}
-
-.fast-five{
+.fast-five {
   background: url("../img/Fast_Five_image-52.jpg") no-repeat bottom center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
-.2-fast-2-furious{
+.2-fast-2-furious {
   background: url("../img/2fast2furious.jpg") no-repeat bottom center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .masthead .intro-body {
@@ -176,78 +185,6 @@ a:focus, a:hover {
   .masthead .intro-body .intro-text {
     font-size: 22px;
   }
-}
-/*--------------Mast head for 2 Fast 2 Furious--------------*/
-
-.masthead2 {
-  display: table;
-  width: 100%;
-  font: 'Helvetica Neue'
-  height: 100%;
-  padding: 200px;
-  text-align: center;
-  color: white;
-  background-color: black;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-
-.masthead2 .intro-body {
-  display: table-cell;
-  vertical-align: middle;
-  background-color: (0, 0, 0, 0.6);
-}
-
-.masthead2 .intro-body .brand-heading {
-  font-size: 50px;
-}
-
-
-.masthead2 .intro-body .intro-text {
-  font-size: 18px;
-}
-
-.masthead2 .intro-body .intro-text {
-  font-size: 18px;
-}
-
-/*--------------Mast head for Fast Five--------------*/
-.masthead5 {
-  display: table;
-  width: 100%;
-  font: 'Helvetica Neue'
-  height: 100%;
-  padding: 200px;
-  text-align: center;
-  color: white;
-  background-color: black;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-
-.masthead5 .intro-body {
-  display: table-cell;
-  vertical-align: middle;
-  background-color: (0, 0, 0, 0.6);
-}
-
-.masthead5 .intro-body .brand-heading {
-  font-size: 50px;
-}
-
-
-.masthead5 .intro-body .intro-text {
-  font-size: 18px;
-}
-
-.masthead5 .intro-body .intro-text {
-  font-size: 18px;
 }
 
 @media (min-width: 768px) {
