@@ -147,6 +147,14 @@ a:focus, a:hover {
   background-size: cover;
 }
 
+.two-fast-2-furious {
+  background: url("../img/2fast2furiouscrewcropped.jpg") no-repeat bottom center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .fast-five {
   background: url("../img/FastFivecropped.jpg") no-repeat bottom center scroll;
   -webkit-background-size: cover;
@@ -155,8 +163,16 @@ a:focus, a:hover {
   background-size: cover;
 }
 
-.two-fast-2-furious {
-  background: url("../img/2fast2furiouscrewcropped.jpg") no-repeat bottom center scroll;
+.fast4 {
+  background: url("../img/fast4skyline.jpg") no-repeat bottom center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.furious-7 {
+  background: url("../img/furious7vs.jpg") no-repeat bottom center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
