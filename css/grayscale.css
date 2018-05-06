@@ -155,8 +155,8 @@ a:focus, a:hover {
   background-size: cover;
 }
 
-.fast-five {
-  background: url("../img/FastFivecropped.jpg") no-repeat bottom center scroll;
+.tokyo-drift {
+  background: url("../img/tokyodrift.jpg") no-repeat bottom center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -171,8 +171,32 @@ a:focus, a:hover {
   background-size: cover;
 }
 
+.fast-five {
+  background: url("../img/FastFivecropped.jpg") no-repeat bottom center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.fastfurious6 {
+  background: url("../img/jump6.jpg") no-repeat bottom center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .furious-7 {
   background: url("../img/furious7vs.jpg") no-repeat bottom center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.fate-8 {
+  background: url("../img/fate8cuba.jpg") no-repeat bottom center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
